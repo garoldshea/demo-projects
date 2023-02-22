@@ -4,3 +4,5 @@
 
 
 #### [1 Python packages (Примеры работ с использованием основных библиотек: pandas, pyplot, etc.)](/1%20Python%20packages)
+* [World map (Карта мира)](/1%20Python%20packages/world_map)
+* [Plotting function in matplotlib (Исследование функций в matplotlib)](/1%20Python%20packages/function)
