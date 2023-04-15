@@ -11,3 +11,4 @@
 * [Enigma (Реализация шифровальной машины Энигма)](/2%20Pet%20projects/enigma_v1.py)
 #### [3 Test items](/3%20Test%20items)
 * [Implementation of the simple neo4j database (Реализация графовой базы данных с помощью neo4j)](/3%20Test%20items/Mindset/mindset_data.ipynb)
+* [Word frequency analysis app using C#](/3%20Test%20items/Digital%20Design)
